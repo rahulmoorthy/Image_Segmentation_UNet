@@ -11,6 +11,8 @@
 </p>
 
 ### Visualizing the results:
+
+
  
 <p align ="center"> Images from left to right (Original -- Ground Truth -- Segmented Image): </p>
 

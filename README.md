@@ -9,7 +9,7 @@
     iii) Increase brightness, contrast and saturation of images and labels.
     iv) Rotate images and labels by 90 degrees.
  
- • Trained the model for ~40 epochs on GPU. Resultant model was used to used to segment the cell images.
+ • Trained the model for ~40 epochs on GPU using SGD as the optimizer. Resultant model was used to used to segment the cell images.
  
 ### U-Net Architecture:
 

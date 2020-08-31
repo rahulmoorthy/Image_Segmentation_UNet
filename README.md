@@ -4,8 +4,14 @@
  
  The trained model was used to segment cell images into foreground and background.
  
- 
-## Results :
+### UNet Architecture
+
+<p align="center">
+  <img src="/images/arch.JPG">
+</p>
+
+
+### Results :
 
  
 <p align ="center"> Images from left to right (Original -- Ground Truth -- Segmented Image): </p>

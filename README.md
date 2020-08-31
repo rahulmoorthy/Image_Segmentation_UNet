@@ -9,7 +9,7 @@
  <p align="center">
   <img src="/images/seg1.JPG">
 </p>
- 
- ![seg1](/images/seg1.JPG)
- 
- ![seg_2](/images/seg2.JPG)
+
+<p align="center">
+  <img src="/images/seg2.JPG">
+</p>

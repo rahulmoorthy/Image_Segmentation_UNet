@@ -3,6 +3,7 @@
  • Deep learning approach to segment images(foreground and background) using U-Net architecture. 
  
  • Dataset consists of cell imagesand ground truth labels (indicating foreground, background). Applied various data augmentation techniques such as: 
+ 
     i) Flip image and labels vertically.
     ii) Flip images and labels horizontally.
     iii) Increase brightness, contrast and saturation of images and labels.

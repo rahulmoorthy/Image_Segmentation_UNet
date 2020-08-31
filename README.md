@@ -7,9 +7,10 @@
  
 ## Results :
 
+<p align="center">
+ 
 ### From left to right (Original   Ground Truth   Segmented Image):
 
-<p align="center">
   <img src="/images/seg1.JPG">
 </p>
 

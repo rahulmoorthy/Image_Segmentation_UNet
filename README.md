@@ -4,11 +4,12 @@
  
  The trained model was used to segment(foreground and background) cell images.
  
- ## Original   Ground Truth   Segmented Image
  
- <p align="center">
+<p align="center">
   <img src="/images/seg1.JPG">
 </p>
+
+### Original   Ground Truth   Segmented Image
 
 <p align="center">
   <img src="/images/seg2.JPG">

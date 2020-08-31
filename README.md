@@ -8,13 +8,11 @@
 ## Results :
 
  
-<p align ="center"> ### From left to right (Original   Ground Truth   Segmented Image): </p>
+<p align ="center"> Images from left to right (Original -- Ground Truth -- Segmented Image): </p>
 
 <p align="center">
   <img src="/images/seg1.JPG">
 </p>
-
-
 
 <p align="center">
   <img src="/images/seg2.JPG">

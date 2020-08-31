@@ -7,12 +7,10 @@
 ### UNet Architecture
 
 <p align="center">
-  <img src="/images/arch.JPG">
+  <img width=500 height=500 src="/images/arch.JPG">
 </p>
 
-
-### Results :
-
+### Visualizing the results:
  
 <p align ="center"> Images from left to right (Original -- Ground Truth -- Segmented Image): </p>
 

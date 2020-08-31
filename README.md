@@ -7,7 +7,7 @@
 ### UNet Architecture
 
 <p align="center">
-  <img width=500 height=500 src="/images/arch.JPG">
+  <img width=700 height=500 src="/images/arch.JPG">
 </p>
 
 ### Visualizing the results:
